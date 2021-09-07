@@ -1,0 +1,56 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#travel_me img{
+    width:100%;
+}
+.environment_me img{
+    height:200px;
+    border-radius:20px;
+    width:400px;
+}
+.environment_me h4{
+ font-size:30px;
+ font-weight: bold;
+ text-align:center;
+}
+.movie_head{
+    font-size:25px;
+    padding:6px 22px;
+    border-radius:40px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color: gold;
+}
+.modal-content{
+    text-align:center;
+}
+.modal-header{
+width:100%;
+display:inline-block;
+font-size:20px;
+}
+.modal-body img{
+    margin-left:200px;
+    margin-bottom:15px;
+}
